@@ -38,7 +38,15 @@
     "navSop": {"en":"Scripts & SOP","zh":"话术/SOP","de":"Skripte & SOP","es":"Guiones & SOP"},
     "ctaContact": {"en":"Contact Sales","zh":"联系销售","de":"Vertrieb kontaktieren","es":"Contactar Ventas"},
     "ctaCatalog": {"en":"View Catalog","zh":"浏览目录","de":"Katalog ansehen","es":"Ver Catalogo"},
-    "ctaInquire": {"en":"Request Quote","zh":"询价","de":"Angebot anfordern","es":"Solicitar Cotizacion"}
+    "ctaInquire": {"en":"Request Quote","zh":"询价","de":"Angebot anfordern","es":"Solicitar Cotizacion"},
+    "catalogEyebrow": {"en":"CATALOG","zh":"产品目录","de":"KATALOG","es":"CATALOGO"},
+    "catalogPageTitle": {"en":"Product Catalog","zh":"产品目录","de":"Produktkatalog","es":"Catalogo de Productos"},
+    "catalogSearchHint": {"en":"Search by name or SKU...","zh":"按名称或 SKU 搜索...","de":"Suche nach Name oder SKU...","es":"Buscar por nombre o SKU..."},
+    "filterAll": {"en":"All Categories","zh":"全部分类","de":"Alle Kategorien","es":"Todas las Categorias"},
+    "filterGranulator": {"en":"Copper Wire Granulators","zh":"铜米机系列","de":"Kupferdraht-Granulatoren","es":"Granuladores de Cable"},
+    "filterShredder": {"en":"Heavy-Duty Shredders","zh":"重型撕碎机","de":"Schwerlast-Shredder","es":"Trituradoras Pesadas"},
+    "filterStripper": {"en":"Wire Strippers & Separators","zh":"剥线机 / 静电分选机","de":"Abisoliermaschinen & Separatoren","es":"Peladoras & Separadores"},
+    "backHome": {"en":"← Back to Home","zh":"← 返回首页","de":"← Zur Startseite","es":"← Volver al Inicio"}
   },
   "hero": [
     {
