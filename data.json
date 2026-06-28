@@ -67,10 +67,8 @@
     }
   ],
   "stats": [
-    {"value":"", "_auto":"years", "label":{"en":"Years of Manufacturing","zh":"年制造经验","de":"Jahre Fertigung","es":"Anos de Fabricacion"}},
     {"value":"30+", "label":{"en":"Export Countries","zh":"出口国家","de":"Exportlander","es":"Paises de Exportacion"}},
     {"value":"99%", "label":{"en":"Copper Recovery Purity","zh":"铜回收纯度","de":"Kupferreinheit","es":"Pureza de Cobre"}},
-    {"value":"≤7h", "label":{"en":"Response Time","zh":"响应时长","de":"Antwortzeit","es":"Tiempo de Respuesta"}},
     {"value":"CE", "label":{"en":"Certified Equipment","zh":"CE 认证设备","de":"CE-zertifizierte Gerate","es":"Equipos Certificados CE"}},
     {"value":"3000㎡", "label":{"en":"Manufacturing Floor","zh":"厂区面积","de":"Produktionsflache","es":"Area de Produccion"}}
   ],
