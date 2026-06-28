@@ -1,0 +1,383 @@
+{
+  "brand": {
+    "name": "QIDA Recycling",
+    "nameFull": {
+      "en": "Taizhou Qida Environmental Protection Equipment Technology Co., Ltd.",
+      "zh": "台州启达环保设备科技有限公司",
+      "de": "Taizhou Qida Umweltschutzausrustung Technologie Co., Ltd.",
+      "es": "Taizhou Qida Equipos de Proteccion Ambiental Tecnologia Co., Ltd."
+    },
+    "tagline": {
+      "en": "Engineered for Recyclers. Trusted Worldwide.",
+      "zh": "为再生金属而生，全球客户的信赖之选",
+      "de": "Entwickelt fur Recycler. Weltweit Vertraut.",
+      "es": "Disenado para Recicladores. Confianza Mundial."
+    },
+    "foundedYear": 2014,
+    "email": "sales@qidarecycling.com",
+    "phone": "+86 -",
+    "address": {
+      "en": "Taizhou, Zhejiang, China",
+      "zh": "中国浙江省台州市",
+      "de": "Taizhou, Zhejiang, China",
+      "es": "Taizhou, Zhejiang, China"
+    },
+    "color": {
+      "primary": "#0A4A8C",
+      "accent": "#F26B1F",
+      "ink": "#0F172A",
+      "bg": "#F7F9FC"
+    }
+  },
+  "ui": {
+    "navHome": {"en":"Home","zh":"首页","de":"Startseite","es":"Inicio"},
+    "navCerts": {"en":"Credentials","zh":"认证资质","de":"Zertifikate","es":"Credenciales"},
+    "navCatalog": {"en":"Product Catalog","zh":"产品目录","de":"Produktkatalog","es":"Catalogo"},
+    "navPartners": {"en":"Partner Industries","zh":"合作行业","de":"Partnerbranchen","es":"Industrias Socias"},
+    "navStaff": {"en":"Intel & Persona","zh":"情报/画像","de":"Intel & Persona","es":"Inteligencia"},
+    "navSop": {"en":"Scripts & SOP","zh":"话术/SOP","de":"Skripte & SOP","es":"Guiones & SOP"},
+    "ctaContact": {"en":"Contact Sales","zh":"联系销售","de":"Vertrieb kontaktieren","es":"Contactar Ventas"},
+    "ctaCatalog": {"en":"View Catalog","zh":"浏览目录","de":"Katalog ansehen","es":"Ver Catalogo"},
+    "ctaInquire": {"en":"Request Quote","zh":"询价","de":"Angebot anfordern","es":"Solicitar Cotizacion"}
+  },
+  "hero": [
+    {
+      "img": "hero/hero1.png",
+      "kicker": {"en":"11 YEARS OF ENGINEERING","zh":"十一年专业制造","de":"11 JAHRE ENGINEERING","es":"11 ANOS DE INGENIERIA"},
+      "title": {"en":"Heavy-Duty Recycling Machinery, Built for Throughput.","zh":"重型废金属回收装备，为高产能而生","de":"Schwerlast-Recyclinganlagen, fur Durchsatz gebaut.","es":"Maquinaria de Reciclaje Pesada, Construida para Volumen."},
+      "sub": {"en":"Copper wire granulators, double-shaft shredders, electrostatic separators and wire strippers - exported to 30+ countries.","zh":"铜米机、双轴撕碎机、静电分选机、剥线机一体化方案，远销 30+ 国家","de":"Kupferdraht-Granulatoren, Doppelwellen-Shredder, elektrostatische Separatoren und Abisoliermaschinen - in uber 30 Lander exportiert.","es":"Granuladores de cable de cobre, trituradoras de doble eje, separadores electrostaticos y peladoras - exportados a mas de 30 paises."},
+      "ctaPrimary": {"en":"Browse Catalog","zh":"浏览产品目录","de":"Katalog durchsuchen","es":"Ver Catalogo"},
+      "ctaGhost": {"en":"Talk to an Engineer","zh":"联系工程师","de":"Mit einem Ingenieur sprechen","es":"Hablar con Ingeniero"}
+    },
+    {
+      "img": "hero/hero2.png",
+      "kicker": {"en":"99% COPPER PURITY","zh":"99% 铜回收纯度","de":"99% KUPFERREINHEIT","es":"99% PUREZA DE COBRE"},
+      "title": {"en":"Dry-Type Granulation. No Water. Maximum Recovery.","zh":"干式回收工艺，无水排放，回收率最大化","de":"Trockene Granulation. Kein Wasser. Maximale Ruckgewinnung.","es":"Granulacion en Seco. Sin Agua. Maxima Recuperacion."},
+      "sub": {"en":"Our QD-Series achieves 99% copper recovery from waste cables through patented air-flow and electrostatic separation - no wastewater, no chemicals.","zh":"QD 系列采用专利风选 + 静电分选工艺，从废线缆中回收 99% 纯铜，零废水、零化学品","de":"Unsere QD-Serie erreicht 99% Kupferruckgewinnung aus Altkabeln durch patentierte Luftstrom- und elektrostatische Trennung.","es":"Nuestra serie QD logra 99% de recuperacion de cobre de cables residuales mediante separacion patentada por flujo de aire y electrostatica."},
+      "ctaPrimary": {"en":"See QD-800S","zh":"查看 QD-800S","de":"QD-800S ansehen","es":"Ver QD-800S"},
+      "ctaGhost": {"en":"Watch How It Works","zh":"工艺视频","de":"So funktioniert es","es":"Como Funciona"}
+    },
+    {
+      "img": "hero/hero3.png",
+      "kicker": {"en":"GLOBAL INSTALL & SERVICE","zh":"全球安装与售后","de":"WELTWEITER SERVICE","es":"INSTALACION GLOBAL"},
+      "title": {"en":"From Taizhou to Your Plant. Installation Worldwide.","zh":"从台州到您的车间，全球上门安装","de":"Von Taizhou zu Ihrer Anlage. Weltweite Installation.","es":"De Taizhou a su Planta. Instalacion Mundial."},
+      "sub": {"en":"On-site commissioning, operator training, spare-parts logistics across Southeast Asia, Middle East, South Asia and beyond.","zh":"东南亚、中东、南亚等地区上门调试、操作员培训、备件全球物流","de":"Inbetriebnahme vor Ort, Bedienerschulung, Ersatzteillogistik weltweit.","es":"Puesta en marcha in situ, capacitacion de operadores, logistica de repuestos en todo el mundo."},
+      "ctaPrimary": {"en":"Our Markets","zh":"服务市场","de":"Unsere Markte","es":"Nuestros Mercados"},
+      "ctaGhost": {"en":"Request a Visit","zh":"预约工厂参观","de":"Besuch anfragen","es":"Solicitar Visita"}
+    }
+  ],
+  "stats": [
+    {"value":"", "_auto":"years", "label":{"en":"Years of Manufacturing","zh":"年制造经验","de":"Jahre Fertigung","es":"Anos de Fabricacion"}},
+    {"value":"30+", "label":{"en":"Export Countries","zh":"出口国家","de":"Exportlander","es":"Paises de Exportacion"}},
+    {"value":"99%", "label":{"en":"Copper Recovery Purity","zh":"铜回收纯度","de":"Kupferreinheit","es":"Pureza de Cobre"}},
+    {"value":"≤7h", "label":{"en":"Response Time","zh":"响应时长","de":"Antwortzeit","es":"Tiempo de Respuesta"}},
+    {"value":"CE", "label":{"en":"Certified Equipment","zh":"CE 认证设备","de":"CE-zertifizierte Gerate","es":"Equipos Certificados CE"}},
+    {"value":"3000㎡", "label":{"en":"Manufacturing Floor","zh":"厂区面积","de":"Produktionsflache","es":"Area de Produccion"}}
+  ],
+  "whyTitle": {"en":"Why QIDA","zh":"为什么选 QIDA","de":"Warum QIDA","es":"Por que QIDA"},
+  "whySub": {"en":"Six reasons recyclers worldwide standardize on our equipment.","zh":"全球回收厂选择 QIDA 设备的六大理由","de":"Sechs Grunde, warum Recycler weltweit auf unsere Anlagen setzen.","es":"Seis razones por las que recicladores en todo el mundo eligen nuestro equipo."},
+  "why": [
+    {
+      "icon":"⚙",
+      "title":{"en":"11 Years of Recycling Engineering","zh":"11 年再生设备工程经验","de":"11 Jahre Recycling-Engineering","es":"11 Anos de Ingenieria de Reciclaje"},
+      "desc":{"en":"Founded 2014. Specialized in dismantling and separation equipment from day one - no diversification, only depth.","zh":"2014 年成立，自始至终专注于废金属拆解与分选装备，不做多元化，只做深度","de":"Gegrundet 2014. Spezialisiert auf Demontage- und Trennanlagen seit Tag eins.","es":"Fundada en 2014. Especializada en equipos de desmontaje y separacion desde el primer dia."},
+      "cta":{"en":"About Us","zh":"了解我们","de":"Uber uns","es":"Sobre Nosotros"},
+      "link":"#certs"
+    },
+    {
+      "icon":"🧪",
+      "title":{"en":"99% Recovery with Zero Wastewater","zh":"99% 回收率 · 零废水排放","de":"99% Ruckgewinnung ohne Abwasser","es":"99% Recuperacion sin Aguas Residuales"},
+      "desc":{"en":"Our QD-800S dry-type granulator uses air-flow + electrostatic separation - no water, no chemicals, no environmental headaches.","zh":"QD-800S 干式工艺，风选 + 静电分选，无水、无化学品、无环保隐患","de":"QD-800S Trockengranulator nutzt Luftstrom + elektrostatische Trennung - kein Wasser, keine Chemikalien.","es":"QD-800S granulador en seco usa flujo de aire + separacion electrostatica - sin agua, sin quimicos."},
+      "cta":{"en":"See QD-800S","zh":"查看 QD-800S","de":"QD-800S ansehen","es":"Ver QD-800S"},
+      "link":"#catalog"
+    },
+    {
+      "icon":"🌍",
+      "title":{"en":"30+ Countries Installed","zh":"30+ 国家安装案例","de":"30+ Lander installiert","es":"30+ Paises Instalados"},
+      "desc":{"en":"Active fleets in Southeast Asia, Middle East, India, South Korea, Japan and beyond. On-site commissioning and operator training included.","zh":"东南亚、中东、印度、韩国、日本等设备运行中。含上门调试与操作员培训","de":"Aktive Flotten in Sudostasien, Nahost, Indien, Sudkorea, Japan und mehr.","es":"Flotas activas en el Sudeste Asiatico, Medio Oriente, India, Corea del Sur, Japon y mas."},
+      "cta":{"en":"Markets We Serve","zh":"服务市场","de":"Markte","es":"Mercados"},
+      "link":"#partners"
+    },
+    {
+      "icon":"🛡",
+      "title":{"en":"CE Certified, Trade Assurance","zh":"CE 认证 · 贸易保障","de":"CE-zertifiziert, Handelsgarantie","es":"Certificado CE, Garantia Comercial"},
+      "desc":{"en":"Every machine ships with CE conformity, 12-month warranty, and full Trade Assurance on Alibaba.com transactions.","zh":"全机型 CE 认证、12 个月质保，Alibaba.com 贸易保障全覆盖","de":"Jede Maschine wird mit CE-Konformitat und 12 Monaten Garantie geliefert.","es":"Cada maquina se envia con conformidad CE y 12 meses de garantia."},
+      "cta":{"en":"Certifications","zh":"认证详情","de":"Zertifizierungen","es":"Certificaciones"},
+      "link":"#certs"
+    },
+    {
+      "icon":"🛠",
+      "title":{"en":"Full Process Line, One Supplier","zh":"全工艺产线，一个供应商","de":"Komplette Prozesslinie, ein Lieferant","es":"Linea Completa, Un Proveedor"},
+      "desc":{"en":"Shredder + granulator + separator + stripper - all in-house, single point of accountability, matched throughput.","zh":"撕碎机 + 铜米机 + 分选机 + 剥线机 - 全部自产，单点负责，产能匹配","de":"Shredder + Granulator + Separator + Abisoliermaschine - alles aus einer Hand.","es":"Trituradora + granulador + separador + peladora - todo internamente, un solo punto de responsabilidad."},
+      "cta":{"en":"View Catalog","zh":"浏览目录","de":"Katalog ansehen","es":"Ver Catalogo"},
+      "link":"#catalog"
+    },
+    {
+      "icon":"⚡",
+      "title":{"en":"Spare Parts Within 48 Hours","zh":"48 小时备件响应","de":"Ersatzteile in 48 Stunden","es":"Repuestos en 48 Horas"},
+      "desc":{"en":"Wear-part stock for all QD-Series models. Express shipping via DHL/FedEx anywhere in the world.","zh":"全 QD 系列易损件常备库存，DHL/FedEx 全球加急直发","de":"Verschleissteile fur alle QD-Serie auf Lager. Express-Versand weltweit.","es":"Stock de piezas de desgaste para toda la serie QD. Envio express en todo el mundo."},
+      "cta":{"en":"Contact Sales","zh":"联系销售","de":"Vertrieb kontaktieren","es":"Contactar Ventas"},
+      "link":"#contact"
+    }
+  ],
+  "catsTitle": {"en":"Three Equipment Lines","zh":"三大产品线","de":"Drei Anlagenlinien","es":"Tres Lineas de Equipos"},
+  "catsSub": {"en":"Choose your entry point. We engineer the rest.","zh":"选择起点，余下交给我们","de":"Wahlen Sie Ihren Einstieg. Den Rest entwickeln wir.","es":"Elija su punto de entrada. Nosotros disenamos el resto."},
+  "cats": [
+    {
+      "img":"products/qd800s.jpg",
+      "title":{"en":"Copper Wire Granulators","zh":"铜米机系列","de":"Kupferdraht-Granulatoren","es":"Granuladores de Cable"},
+      "sub":{"en":"Dry-type, 99% recovery, QD-600S / 800S / 800SA / 1000.","zh":"干式工艺，99% 回收率，QD-600S / 800S / 800SA / 1000","de":"Trocken, 99% Ruckgewinnung, QD-600S/800S/800SA/1000.","es":"Tipo seco, 99% recuperacion, QD-600S/800S/800SA/1000."},
+      "searchKey":"granulator"
+    },
+    {
+      "img":"products/shredder1.jpg",
+      "title":{"en":"Heavy-Duty Shredders","zh":"重型撕碎机","de":"Schwerlast-Shredder","es":"Trituradoras Pesadas"},
+      "sub":{"en":"Double-shaft design for cables, motors, e-waste. CE certified.","zh":"双轴设计，破碎线缆、电机、电子废物。CE 认证","de":"Doppelwellen-Design fur Kabel, Motoren, Elektroschrott. CE-zertifiziert.","es":"Diseno de doble eje para cables, motores, residuos electronicos. Certificado CE."},
+      "searchKey":"shredder"
+    },
+    {
+      "img":"products/stripper3.jpg",
+      "title":{"en":"Wire Strippers & Separators","zh":"剥线机 / 静电分选机","de":"Abisoliermaschinen & Separatoren","es":"Peladoras & Separadores"},
+      "sub":{"en":"Pre-processing and post-separation equipment for the full recycling line.","zh":"完整回收产线的前处理与后分选设备","de":"Vor- und Nachbearbeitungsgerate fur die komplette Recyclinglinie.","es":"Equipos de preprocesamiento y separacion posterior."},
+      "searchKey":"stripper"
+    }
+  ],
+  "partnersTitle": {"en":"Partner Industries","zh":"合作行业","de":"Partnerbranchen","es":"Industrias Socias"},
+  "partnersSub": {"en":"Who runs our machines every day.","zh":"每天使用我们设备的客户类型","de":"Wer unsere Maschinen taglich nutzt.","es":"Quienes operan nuestras maquinas a diario."},
+  "partners": [
+    {"name":{"en":"E-Waste Recyclers","zh":"电子废弃物回收厂","de":"Elektroschrott-Recycler","es":"Recicladores de RAEE"}, "icon":"💻", "color":"#0A4A8C"},
+    {"name":{"en":"Cable Scrap Processors","zh":"废线缆处理厂","de":"Kabelschrott-Verarbeiter","es":"Procesadores de Cable"}, "icon":"🔌", "color":"#F26B1F"},
+    {"name":{"en":"Auto Dismantlers","zh":"汽车拆解厂","de":"Autoverwerter","es":"Desguazadores"}, "icon":"🚗", "color":"#0F172A"},
+    {"name":{"en":"Secondary Smelters","zh":"二次冶炼厂","de":"Sekundarhutten","es":"Fundiciones Secundarias"}, "icon":"🔥", "color":"#0A4A8C"},
+    {"name":{"en":"Motor Rebuilders","zh":"电机修复厂","de":"Motoren-Sanierer","es":"Reconstructores de Motores"}, "icon":"⚙", "color":"#F26B1F"},
+    {"name":{"en":"Municipal Recyclers","zh":"市政再生中心","de":"Stadtische Recycler","es":"Recicladores Municipales"}, "icon":"♻", "color":"#0F172A"}
+  ],
+  "regionsTitle": {"en":"Markets We Serve","zh":"服务市场","de":"Unsere Markte","es":"Nuestros Mercados"},
+  "regionsSub": {"en":"Active installations across four major regions.","zh":"四大地区设备运行中","de":"Aktive Installationen in vier Hauptregionen.","es":"Instalaciones activas en cuatro regiones principales."},
+  "regions": [
+    {"flag":"🌏", "name":{"en":"Southeast Asia","zh":"东南亚","de":"Sudostasien","es":"Sudeste Asiatico"}, "sub":{"en":"Vietnam, Indonesia, Thailand, Philippines","zh":"越南、印尼、泰国、菲律宾","de":"Vietnam, Indonesien, Thailand, Philippinen","es":"Vietnam, Indonesia, Tailandia, Filipinas"}},
+    {"flag":"🕌", "name":{"en":"Middle East","zh":"中东","de":"Naher Osten","es":"Medio Oriente"}, "sub":{"en":"UAE, Saudi Arabia, Turkey, Egypt","zh":"阿联酋、沙特、土耳其、埃及","de":"VAE, Saudi-Arabien, Turkei, Agypten","es":"EAU, Arabia Saudita, Turquia, Egipto"}},
+    {"flag":"🇮🇳", "name":{"en":"South Asia","zh":"南亚","de":"Sudasien","es":"Sur de Asia"}, "sub":{"en":"India, Pakistan, Bangladesh","zh":"印度、巴基斯坦、孟加拉","de":"Indien, Pakistan, Bangladesch","es":"India, Pakistan, Bangladesh"}},
+    {"flag":"🌐", "name":{"en":"East Asia","zh":"东亚","de":"Ostasien","es":"Este de Asia"}, "sub":{"en":"South Korea, Japan, Taiwan","zh":"韩国、日本、台湾","de":"Sudkorea, Japan, Taiwan","es":"Corea del Sur, Japon, Taiwan"}}
+  ],
+  "certsTitle": {"en":"Credentials & Verification","zh":"认证资质","de":"Zertifikate & Verifizierung","es":"Credenciales y Verificacion"},
+  "certs": [
+    {
+      "title": {"en":"CE Conformity (EU)","zh":"CE 欧盟认证","de":"CE-Konformitat (EU)","es":"Conformidad CE (UE)"},
+      "desc": {"en":"All QD-Series machinery meets EU machinery directive 2006/42/EC requirements.","zh":"全 QD 系列符合欧盟机械指令 2006/42/EC 要求","de":"Alle QD-Maschinen erfullen die EU-Maschinenrichtlinie 2006/42/EG.","es":"Toda la maquinaria QD cumple con la directiva de maquinaria UE 2006/42/CE."},
+      "image":"",
+      "verifyLabel":{"en":"View Certificate","zh":"查看证书","de":"Zertifikat ansehen","es":"Ver Certificado"},
+      "verifyUrl":""
+    },
+    {
+      "title": {"en":"Alibaba Onsite Verified","zh":"Alibaba 实地核验","de":"Alibaba vor Ort verifiziert","es":"Verificado en Sitio por Alibaba"},
+      "desc": {"en":"Factory inspected and legal status confirmed by Alibaba.com third-party verification (11-Year Gold Supplier).","zh":"Alibaba.com 第三方实地核验通过，11 年金牌供应商","de":"Werksinspektion und Rechtsstatus durch Alibaba.com Drittpartei bestatigt.","es":"Fabrica inspeccionada y estado legal confirmado por verificacion de Alibaba.com."},
+      "image":"",
+      "verifyLabel":{"en":"Verify on Alibaba","zh":"在 Alibaba 验证","de":"Auf Alibaba verifizieren","es":"Verificar en Alibaba"},
+      "verifyUrl":""
+    },
+    {
+      "title": {"en":"Trade Assurance","zh":"贸易保障","de":"Handelsgarantie","es":"Garantia Comercial"},
+      "desc": {"en":"100% protection on product quality and on-time shipment, backed by Alibaba.com escrow.","zh":"产品质量与按时交货 100% 保障，Alibaba.com 资金托管","de":"100% Schutz fur Produktqualitat und punktliche Lieferung.","es":"100% proteccion en calidad del producto y envio puntual."},
+      "image":"",
+      "verifyLabel":{"en":"Learn More","zh":"了解更多","de":"Mehr erfahren","es":"Mas Informacion"},
+      "verifyUrl":""
+    }
+  ],
+  "products": [
+    {
+      "id":"qd-600s",
+      "name":{"en":"QD-600S Copper Wire Granulator","zh":"QD-600S 铜米机","de":"QD-600S Kupferdraht-Granulator","es":"QD-600S Granulador de Cable"},
+      "sku":"QD-600S",
+      "price":"USD 28,000",
+      "moq":"1 set",
+      "category":"granulator",
+      "images":["products/qd600s.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"300-400 kg/h"},
+        {"k":{"en":"Copper Recovery","zh":"铜回收率","de":"Kupferruckgewinnung","es":"Recuperacion Cu"}, "v":"99%"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"45 kW"},
+        {"k":{"en":"Voltage","zh":"电压","de":"Spannung","es":"Voltaje"}, "v":"380V / 50Hz (customizable)"},
+        {"k":{"en":"Dimensions","zh":"尺寸","de":"Abmessungen","es":"Dimensiones"}, "v":"3500×1800×2200 mm"},
+        {"k":{"en":"Weight","zh":"重量","de":"Gewicht","es":"Peso"}, "v":"3,200 kg"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"qd-800s",
+      "name":{"en":"QD-800S Dry-Type Copper Granulator","zh":"QD-800S 干式铜米机","de":"QD-800S Trocken-Granulator","es":"QD-800S Granulador en Seco"},
+      "sku":"QD-800S",
+      "price":"USD 50,000",
+      "moq":"1 set",
+      "category":"granulator",
+      "images":["products/qd800s.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"500-800 kg/h"},
+        {"k":{"en":"Copper Recovery","zh":"铜回收率","de":"Kupferruckgewinnung","es":"Recuperacion Cu"}, "v":"99%"},
+        {"k":{"en":"Process","zh":"工艺","de":"Verfahren","es":"Proceso"}, "v":"Dry-type, no water, no chemicals"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"75 kW"},
+        {"k":{"en":"Dimensions","zh":"尺寸","de":"Abmessungen","es":"Dimensiones"}, "v":"4500×2200×2400 mm"},
+        {"k":{"en":"Weight","zh":"重量","de":"Gewicht","es":"Peso"}, "v":"5,800 kg"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"qd-800sa",
+      "name":{"en":"QD-800SA 99% Pure Copper Granulator","zh":"QD-800SA 高纯度铜米机","de":"QD-800SA 99% Reiner Granulator","es":"QD-800SA Granulador 99% Puro"},
+      "sku":"QD-800SA",
+      "price":"USD 90,000",
+      "moq":"1 set",
+      "category":"granulator",
+      "images":["products/qd800sa.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"600-1000 kg/h"},
+        {"k":{"en":"Copper Recovery","zh":"铜回收率","de":"Kupferruckgewinnung","es":"Recuperacion Cu"}, "v":"99.5%"},
+        {"k":{"en":"Process","zh":"工艺","de":"Verfahren","es":"Proceso"}, "v":"Dry-type + secondary electrostatic refinement"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"95 kW"},
+        {"k":{"en":"Application","zh":"适用","de":"Anwendung","es":"Aplicacion"}, "v":"Mixed cable scrap, fine wires"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"shredder-1",
+      "name":{"en":"Industrial Cable Shredder (Double-Shaft)","zh":"工业级双轴线缆撕碎机","de":"Industrieller Doppelwellen-Shredder","es":"Trituradora Industrial de Doble Eje"},
+      "sku":"QD-SH-DS-001",
+      "price":"USD 9,000",
+      "moq":"1 set",
+      "category":"shredder",
+      "images":["products/shredder1.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"1-3 tons/h"},
+        {"k":{"en":"Shaft Type","zh":"轴类型","de":"Wellentyp","es":"Tipo de Eje"}, "v":"Double-shaft, low-speed, high-torque"},
+        {"k":{"en":"Application","zh":"适用","de":"Anwendung","es":"Aplicacion"}, "v":"Cables, motors, e-waste, light metals"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"22-45 kW"},
+        {"k":{"en":"Output Size","zh":"出料粒度","de":"Ausgabegrosse","es":"Tamano de Salida"}, "v":"20-80 mm"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"shredder-2",
+      "name":{"en":"High-Capacity Double-Shaft Shredder","zh":"大产能双轴撕碎机","de":"Hochleistungs-Doppelwellen-Shredder","es":"Trituradora de Alta Capacidad"},
+      "sku":"QD-SH-DS-002",
+      "price":"USD 9,000",
+      "moq":"1 set",
+      "category":"shredder",
+      "images":["products/shredder2.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"3-5 tons/h"},
+        {"k":{"en":"Application","zh":"适用","de":"Anwendung","es":"Aplicacion"}, "v":"Aluminum profiles, copper scrap, industrial waste"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"55-90 kW"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"shredder-3",
+      "name":{"en":"CE-Certified Cable Shredder","zh":"CE 认证线缆撕碎机","de":"CE-zertifizierter Kabel-Shredder","es":"Trituradora de Cable Certificada CE"},
+      "sku":"QD-SH-DS-003",
+      "price":"USD 9,000",
+      "moq":"1 set",
+      "category":"shredder",
+      "images":["products/shredder3.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"1-2 tons/h"},
+        {"k":{"en":"Application","zh":"适用","de":"Anwendung","es":"Aplicacion"}, "v":"Mixed scrap wire and cable"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"30 kW"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"stripper-1",
+      "name":{"en":"Manual Copper Cable Stripper","zh":"手动式铜线剥皮机","de":"Manuelle Kupferkabel-Abisoliermaschine","es":"Peladora Manual de Cable"},
+      "sku":"QD-WS-M",
+      "price":"USD 1,900",
+      "moq":"1 set",
+      "category":"stripper",
+      "images":["products/stripper1.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Cable Diameter","zh":"线缆直径","de":"Kabeldurchmesser","es":"Diametro de Cable"}, "v":"1-25 mm"},
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"15-25 m/min"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"0.75 kW"},
+        {"k":{"en":"Operation","zh":"操作","de":"Bedienung","es":"Operacion"}, "v":"Single-operator"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"stripper-2",
+      "name":{"en":"Electric Wire Stripping Machine","zh":"电动剥线机","de":"Elektrische Abisoliermaschine","es":"Maquina Peladora Electrica"},
+      "sku":"QD-WS-E",
+      "price":"USD 1,900",
+      "moq":"1 set",
+      "category":"stripper",
+      "images":["products/stripper2.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Cable Diameter","zh":"线缆直径","de":"Kabeldurchmesser","es":"Diametro de Cable"}, "v":"1-40 mm"},
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"30-50 m/min"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"1.5 kW"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    },
+    {
+      "id":"stripper-3",
+      "name":{"en":"Automatic Cable Stripping Machine","zh":"全自动剥线切割机","de":"Automatische Kabel-Abisoliermaschine","es":"Peladora Automatica de Cable"},
+      "sku":"QD-WS-A",
+      "price":"USD 1,800-2,000",
+      "moq":"1 set",
+      "category":"stripper",
+      "images":["products/stripper3.jpg"],
+      "video":"",
+      "specs":[
+        {"k":{"en":"Cable Diameter","zh":"线缆直径","de":"Kabeldurchmesser","es":"Diametro de Cable"}, "v":"0.5-50 mm"},
+        {"k":{"en":"Functions","zh":"功能","de":"Funktionen","es":"Funciones"}, "v":"Cutting + stripping in one pass"},
+        {"k":{"en":"Capacity","zh":"产能","de":"Kapazitat","es":"Capacidad"}, "v":"40-80 m/min"},
+        {"k":{"en":"Power","zh":"功率","de":"Leistung","es":"Potencia"}, "v":"2.2 kW"},
+        {"k":{"en":"Warranty","zh":"质保","de":"Garantie","es":"Garantia"}, "v":"12 months"},
+        {"k":{"en":"Certification","zh":"认证","de":"Zertifizierung","es":"Certificacion"}, "v":"CE"}
+      ],
+      "detailImgs":[]
+    }
+  ],
+  "staff_intel": [
+    {"cat":"客户画像", "t":"东南亚客户特点", "c":"对价格敏感，常对比 3 家以上供应商；偏好 USD 报价 + FOB 上海；询盘高峰在每年 3-5 月（雨季前备货）"},
+    {"cat":"客户画像", "t":"中东客户特点", "c":"重视外观和品牌包装；阿联酋客户多为转口贸易商，会问最低分销价；常要求阿拉伯语操作手册"},
+    {"cat":"客户画像", "t":"印度客户特点", "c":"砍价激烈但忠诚度高；偏好分期付款（30% 定金 + 50% 装船前 + 20% 收货后）；售后需求频繁"},
+    {"cat":"竞品情报", "t":"主要竞争对手", "c":"江西万弘、张家港同泰、巩义五星；价格区间相近，QIDA 优势在干式工艺与售后响应速度"},
+    {"cat":"产品知识", "t":"QD-800S vs QD-800SA 区别", "c":"800SA 多一道静电精分选工艺，回收纯度 99.5% vs 800S 的 99%；价格高 80%，适合做高端铜锭买家"}
+  ],
+  "staff_sop": [
+    {"cat":"询盘回复", "t":"首次询盘标准回复（24h 内）", "c":"1) 感谢询盘 2) 确认产品型号与目标产能 3) 询问目的港 4) 询问废料类型（带胶皮率/含铜率）5) 附产品视频 + CE 证书 6) 承诺 48h 内出报价"},
+    {"cat":"询盘回复", "t":"客户砍价标准话术", "c":"先确认数量与付款方式 → 解释成本结构（材料 60% / 加工 25% / 包装运费 15%）→ 给折扣方案：单台无折扣，2 台 -2%，3 台以上 -5% + 免费备件包"},
+    {"cat":"成交跟进", "t":"PI 发出后跟进节奏", "c":"D+1 确认收到 → D+3 询问内部审批进度 → D+7 给出价格有效期提醒 → D+14 提供新增激励（如延长质保 6 个月）→ D+21 启动竞品 PK 话术"},
+    {"cat":"售后", "t":"备件请求 SOP", "c":"客户报故障 → 工程师视频诊断（30min 内）→ 确认备件清单 → 发 DHL 报价 → 收到付款 → 48h 内发货 → 提供物流追踪号"}
+  ],
+  "footer": {
+    "ourCompany": {"en":"Our Company","zh":"关于我们","de":"Unser Unternehmen","es":"Nuestra Empresa"},
+    "contact": {"en":"Contact","zh":"联系我们","de":"Kontakt","es":"Contacto"},
+    "address": {"en":"Address","zh":"地址","de":"Adresse","es":"Direccion"},
+    "capabilities": {"en":"Capabilities","zh":"工程能力","de":"Kompetenzen","es":"Capacidades"},
+    "rights": {"en":"All rights reserved.","zh":"版权所有","de":"Alle Rechte vorbehalten.","es":"Todos los derechos reservados."}
+  }
+}
